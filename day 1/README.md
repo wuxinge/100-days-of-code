@@ -11,7 +11,9 @@
 3. String concatenation: ```+```
 4. Comment: ```#```
   <br>shortcut: cmd+/ (Mac) | ctrl +/ (wins)
-5. swap values between 2 variables: ```a,b = b,a ```
+5. Swap values between 2 variables: ```a,b = b,a ```
+   <br> method 2: use a temp variable to store value (see day-1-4-exercise)
+  
 6. Single or Double Quotes? (insert a quote inside a string)
    <br>Error: ```print("I said "Wow!" to him")```
    <br> Reason: Python sees "WOW!" as code rather than a string.
