@@ -9,6 +9,7 @@
 1. Create new lines: ```\n```
 2. Space: ````" " ````
 3. String concatenation: ```+```
+can't concatenate a string to an integer
 4. Comment: ```#```
   <br>shortcut: cmd+/ (Mac) | ctrl +/ (wins)
 5. Swap values between 2 variables: ```a,b = b,a ```
