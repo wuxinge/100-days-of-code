@@ -64,3 +64,6 @@ Once an elif condition is true, the rest of the elif conditions are no longer ch
 ![](treasure_island_game.gif)
 
 * https://replit.com/@wuxinge/day-3-project-treasure-island 
+
+## Resources 
+* [ASCII art](https://ascii.co.uk/art) : combinations of two or three characters for expressing emotion in text.
