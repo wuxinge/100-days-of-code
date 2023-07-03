@@ -1,11 +1,12 @@
 # Day 3 Control Flow and Logical Operators
-## Functions/Concepts 
+## Learning Takeaways
+### Functions/Concepts 
 * **Modulo Operator (%)**: shows the remainder after a division
   ```
   5%2
   #result is 1
   ```
-### Conditionals 
+#### Conditionals 
 * **if/else statement**
   ```
   age = 18
@@ -38,7 +39,7 @@ Once an elif condition is true, the rest of the elif conditions are no longer ch
   ```
 * **Indentation:** Python relies on indentation (whitespace at the beginning of a line) to define the scope in the code
 
-### Comparison Operators 
+#### Comparison Operators 
 | Operator       | Condition           
 | ------------- |:-------------| 
 | >      | greater than | 
