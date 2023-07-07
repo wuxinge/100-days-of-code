@@ -5,8 +5,10 @@ This repository is the perfect place to show my learning takeaways, write down e
 Working with Variables in Python to Manage Data
 * [Day 2:](https://github.com/wuxinge/100-days-of-code/tree/571c397d3a404fb76fab3ec972ada2fa2863c981/day%202)
   Understanding Data Types and How to Manipulate Strings
-* [Day 3:](https://github.com/wuxinge/100-days-of-code/blob/cc5083250953a7f8b2519a4a3c4d6f7f4061ca1d/day%203/README.md)
-  Control Flow and Logical Operators
+* [Day 3:](https://github.com/wuxinge/100-days-of-code/blob/cc5083250953a7f8b2519a4a3c4d6f7f4061ca1d/day%203/README.md) Control Flow and Logical Operators
+* [Day 4:]() Randomization and Python Lists
+* [Day 5:](https://github.com/wuxinge/100-days-of-code/tree/6e1446439255f3408ca0860e1aa3298eacf7a52c/day%205) Python Loops
+ 
 ## Intermediate 
 
 ## Intermediate+ 
