@@ -1,4 +1,4 @@
-# Randomization and Python Lists
+# Day 4 Randomization and Python Lists
 
 ## Learning Takeaways
 ### Function/Concepts
