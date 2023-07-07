@@ -2,6 +2,30 @@
 
 ## Learning Takeaways 
 ### Functions/Concepts 
+* **Defining functions:** to specify what should do 
+```
+def my_function():
+    #Do this
+    #Then do this
+    #Finally do this
+```
+* **Calling functions:** to execute the function
+```
+my_function()
+```
+
+* **While loop:** this is a loop that will keep repeating itself until the while condition becomes false.
+```
+while something_is_true:
+    #Do this
+    #Then do this
+    #Finally do this
+```
+#### While loop vs For loop 
+|while loop        |for loop        | 
+| :------------- |:-------------| 
+|carry out functionally many times untile sort of condition is met     | when you want to iterate over something and you need to do something with each thing that you are iterating over | 
+![](while loop vs for loop.jpeg) 
 
 ## Exercises 
 
