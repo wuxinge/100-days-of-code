@@ -24,8 +24,10 @@ while something_is_true:
 #### While loop vs For loop 
 |while loop        |for loop        | 
 | :------------- |:-------------| 
-|carry out functionally many times untile sort of condition is met     | when you want to iterate over something and you need to do something with each thing that you are iterating over | 
-![](while loop vs for loop.jpeg) 
+|carry out functionally many times until sort of condition is met     | when you want to iterate over something and you need to do something with each thing that you are iterating over | 
+
+ ![](while loop vs for loop.png)
+
 
 ## Exercises 
 
