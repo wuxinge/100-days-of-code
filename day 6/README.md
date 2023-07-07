@@ -26,11 +26,18 @@ while something_is_true:
 | :------------- |:-------------| 
 |carry out functionally many times until sort of condition is met     | when you want to iterate over something and you need to do something with each thing that you are iterating over | 
 
- ![](while loop vs for loop.png)
+ ![](https://github.com/wuxinge/100-days-of-code/blob/eef10d39ba19cfe5f05a9b1454632d3a94847683/day%206/while%20loop%20vs%20for%20loop.png)
 
 
 ## Exercises 
-
+* [Hurdle 1](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json)
+![](hurdle1.gif)
+* [Hurdle 2](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%202&url=worlds%2Ftutorial_en%2Fhurdle2.json)
+![](hurdle2.gif)
+* [Hurdle 3](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%203&url=worlds%2Ftutorial_en%2Fhurdle3.json)
+![](hurdle3.gif)
+* [Hurdle 4](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%204&url=worlds%2Ftutorial_en%2Fhurdle4.json)
+![](hurdle4.gif)
 ## Projects 
 ![](lost_in_maze.gif)
 ```
