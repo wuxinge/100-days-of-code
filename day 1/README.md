@@ -1,4 +1,4 @@
-# Day 1 - Working with Variables in Python to Manage Data
+# Day 1  Working with Variables in Python to Manage Data
 ## Learning Takeaways 
 ### Functions/Concepts
 1. **Print():** print a string into the console
