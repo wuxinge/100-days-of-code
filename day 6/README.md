@@ -33,8 +33,8 @@ while something_is_true:
 ```
 fam = ['Liz', 1.73, 'emma', 1.68. 'mom', 1.71, 'dad', 1.89]
 
-list.index('mom') #result is 4
-list.count(1.73) #result is 1
+fam.index('mom') #result is 4
+fam.count(1.73) #result is 1
 ```
 #### str methods 
 ```
