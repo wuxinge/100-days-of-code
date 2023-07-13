@@ -60,8 +60,7 @@ The random functions come from the random module which needs to be imported.
   areas_copy[0] = 5.0
 
   #Print areas
-  print(areas)
- ```
+  print(areas)``` 
 
 #### List index
 - use the index number to get hold of a particular item from the list
@@ -71,15 +70,16 @@ The random functions come from the random module which needs to be imported.
   letters[0]
   #Result: "a"
   letters[-1]
-  #Result: "c"
-  ```
+  #Result: "c"``` 
+  
 #### Nested lists 
 A list within a list. 
   ```
   row1 = [1, 2]
   row2 = [3, 4]
   square = [row1, row2]
-  ```
+```
+
 ## Exercises 
 * https://replit.com/@wuxinge/day-4-1-exercise
 * https://replit.com/@wuxinge/day-4-2-exercise
