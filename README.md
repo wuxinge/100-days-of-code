@@ -7,7 +7,7 @@ Working with Variables in Python to Manage Data
   Understanding Data Types and How to Manipulate Strings
 * [Day 3:](https://github.com/wuxinge/Python-100-days-of-code/tree/49901d58d6605b2fc12c4e2afff3ad19ca7c051a/day%203) Control Flow and Logical Operators
 * [Day 4:](https://github.com/wuxinge/Python-100-days-of-code/tree/e0b926e5e488e035ce1b68fcc176cf085127cec3/day%204) Randomization and Python Lists
-* [Day 5:](https://github.com/wuxinge/100-days-of-code/tree/6e1446439255f3408ca0860e1aa3298eacf7a52c/day%205) Python Loops
+* [Day 5:](https://github.com/wuxinge/Python-100-days-of-code/tree/90898553e96c31ab6e7830c502b8aab0568d5111/day%205) Python Loops
 * [Day 6:](https://github.com/wuxinge/Python-100-days-of-code/tree/422e61ac9eeec89af0191757c8344850703685a9/day%206) Python Functions and Karel
 ## Intermediate 
 
