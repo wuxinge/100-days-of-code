@@ -24,7 +24,13 @@ print(type(x))
 | Integers      | whole numbers | 1234556|
 | Float      | numbers with decimal places    |  3.1415|
 | String | a string of characters      |    text |
-| Boolean | represents one of two values: True or False.  |   True  |
+| Boolean | represents one of two values: True or False.|True  |
+
+*** Bolean is a subclass of int, therefore boolean can be calculated like int. 
+```
+True + False
+# result is 1
+```
 
 #### Maths
 | Arithmetic Operators   | Signs    | Examples |
@@ -40,7 +46,8 @@ print(type(x))
 | ------------- |:-------------| 
 |float()    | convert to float | 
 |int()     | convert to int |  
-|string() | convert to string     |    
+|string() | convert to string     |   
+|bool() | convert to boolean     |  
 
 ### Syntax 
 * **Subscript:** the method of pulling out a particular element from a string 
