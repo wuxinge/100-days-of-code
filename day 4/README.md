@@ -47,7 +47,22 @@ The random functions come from the random module which needs to be imported.
   x = txt.split(", ")
   print(x)
   #['hello', 'my name is Peter', 'I am 26 years old']
-  ``` 
+  ```
+* **list():** creates a list object.
+  ```
+  areas = [11.25, 18.0, 20.0, 10.75, 9.50]
+
+  #Create areas_copy
+  areas_copy = areas
+  areas_copy = list(areas) #explict copy of the list areas or you can use [:]
+
+   #Change areas_copy
+  areas_copy[0] = 5.0
+
+  #Print areas
+  print(areas)
+ ```
+
 #### List index
 - use the index number to get hold of a particular item from the list
 - index number can be negative if you want to start counting from the end of the list
