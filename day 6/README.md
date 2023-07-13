@@ -28,6 +28,20 @@ while something_is_true:
 
  ![](https://github.com/wuxinge/100-days-of-code/blob/eef10d39ba19cfe5f05a9b1454632d3a94847683/day%206/while%20loop%20vs%20for%20loop.png)
 
+*** Method:** a function that “belongs to” an object. 
+#### List methods 
+```
+fam = ['Liz', 1.73, 'emma', 1.68. 'mom', 1.71, 'dad', 1.89]
+
+list.index('mom') #result is 4
+list.count(1.73) #result is 1
+```
+#### str methods 
+```
+sister = 'liz'
+sister.capitalize() #result is 'Liz'
+sister.replace("z", "sa") #result is 'lisa'
+```
 
 ## Exercises 
 * [Hurdle 1](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json)
