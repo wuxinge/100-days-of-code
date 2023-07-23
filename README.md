@@ -9,6 +9,7 @@ Working with Variables in Python to Manage Data
 * [Day 4:](https://github.com/wuxinge/Python-100-days-of-code/tree/e0b926e5e488e035ce1b68fcc176cf085127cec3/day%204) Randomization and Python Lists
 * [Day 5:](https://github.com/wuxinge/Python-100-days-of-code/tree/90898553e96c31ab6e7830c502b8aab0568d5111/day%205) Python Loops
 * [Day 6:](https://github.com/wuxinge/Python-100-days-of-code/tree/422e61ac9eeec89af0191757c8344850703685a9/day%206) Python Functions and Karel
+* [Day 7:](https://github.com/wuxinge/Python-100-days-of-code/tree/0779d6c43bc47529faa4b84badaf6b46b42bdea5/day%207) Hangman Game Project
 ## Intermediate 
 
 ## Intermediate+ 
