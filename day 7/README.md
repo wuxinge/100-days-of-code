@@ -9,7 +9,12 @@
 * https://replit.com/@wuxinge/Day-7-Hangman-challenge2
 * https://replit.com/@wuxinge/Day-7-Hangman-challenge3
 * https://replit.com/@wuxinge/Day-7-Hangman-challenge4
-  
+
+### Flowchart
+
+<img src="Hangman_Flowchart1.png" width="500" height="1000"> <img src="Hangman_Flowchart2.png" width="500" height="1000">
+
+
 ## Learning Takeaways/Concepts 
 * **Negation:** changes the logical meaning to the opposite.
 ```
