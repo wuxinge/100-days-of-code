@@ -65,7 +65,7 @@
 ## Project: The Secret Auction 
 ![](auction.gif) 
 
-Flowchart 
+* Flowchart 
 
 <img src="flowchart.png" width="400" height="500"> 
 
