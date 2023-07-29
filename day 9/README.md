@@ -66,7 +66,8 @@
 ![](auction.gif) 
 
 Flowchart 
-<img src="flowchart.png" width="500" height="1000"> 
+
+<img src="flowchart.png" width="400" height="500"> 
 
 * Final version: https://replit.com/@wuxinge/day-9-project-blind-auction
 * Alternative solution: https://replit.com/@wuxinge/day-9-project-blind-auction-solution
