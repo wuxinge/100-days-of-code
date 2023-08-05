@@ -1,4 +1,4 @@
-# Dayy 11 Blackjack Capstone Project 
+# Day 11 Blackjack Capstone Project 
 
 ## Learning Takeaways/Concepts 
 * append() vs extend()
