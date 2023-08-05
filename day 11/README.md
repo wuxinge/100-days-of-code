@@ -15,4 +15,6 @@
     ```
 ## Blackjack Capstone Project
 ![](blackjack.gif)
+* Flowchart
+<img src="Blackjack_Flowchart.PNG" width="300" height = "500"/>
 https://replit.com/@wuxinge/day-11-capstone-project-blackjack
