@@ -10,10 +10,10 @@ Working with Variables in Python to Manage Data
 * [Day 5:](https://github.com/wuxinge/Python-100-days-of-code/tree/90898553e96c31ab6e7830c502b8aab0568d5111/day%205) Python Loops
 * [Day 6:](https://github.com/wuxinge/Python-100-days-of-code/tree/422e61ac9eeec89af0191757c8344850703685a9/day%206) Python Functions and Karel
 * [Day 7:](https://github.com/wuxinge/Python-100-days-of-code/tree/0779d6c43bc47529faa4b84badaf6b46b42bdea5/day%207) Hangman Game Project
-* [Day 8:]()
-* [Day 9:]()
+* [Day 8:](https://github.com/wuxinge/Python-100-days-of-code/tree/ccd9aa33228bb936c2f2f2200b89ed310a8eef23/day%208) Function Parameters & Cipher Caesar Game
+* [Day 9:](https://github.com/wuxinge/Python-100-days-of-code/tree/ccd9aa33228bb936c2f2f2200b89ed310a8eef23/day%209) Dictionaries, Nesting and the Secret Auction
 * [Day 10:](https://github.com/wuxinge/Python-100-days-of-code/tree/4793a6c363156b0131a0f6a73f57356647bd6089/day%2010) Fucntions with Outputs
-* [Day 11:]() Blackjack Capstone Project 
+* [Day 11:](https://github.com/wuxinge/Python-100-days-of-code/tree/ccd9aa33228bb936c2f2f2200b89ed310a8eef23/day%2011) Blackjack Capstone Project 
 ## Intermediate 
 
 ## Intermediate+ 
